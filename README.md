@@ -95,17 +95,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaaz&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaaz&theme=tokyonight" alt="GitHub Streak" width="49%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmaaz&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 
 ## 🎯 What I Bring to Your Team
