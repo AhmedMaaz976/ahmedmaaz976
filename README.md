@@ -3,13 +3,15 @@
   Hi 👋, I'm Ahmed Maaz  
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&width=435&lines=Full+Stack+Developer;MERN+Stack+%7C+AI+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+%7C+AI+Learner;Python+%7C+ML+Enthusiast" alt="Typing Animation" />
 </h3>
+
 
 ---
 
 ## 👨‍💻 About Me  
-**Full Stack Developer** specializing in the **MERN Stack** and **.NET Framework**, with a passion for creating scalable and high-performance web applications. I focus on transforming ideas into digital solutions that drive business growth and enhance user experiences across multiple technology stacks.  
+I am a **Full Stack Developer** with expertise in **MERN Stack, .NET Framework, Computer Networking, and Python**, dedicated to building **scalable, high-performance, and user-centric applications**. With a strong passion for problem-solving, I excel at transforming complex ideas into **innovative digital solutions** that enhance business growth and deliver exceptional user experiences across diverse platforms and technologies.I am also deeply interested in **AI and Machine Learning**, leveraging **Python** to explore intelligent systems, predictive models, and data-driven applications that push the boundaries of modern technology.
+
 
 - 📍 **Location:** Pakistan  
 - 📧 **Email:** [ahmedmaaza9760@gmail.com](mailto:ahmedmaaza9760@gmail.com)  
@@ -34,6 +36,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
       </p>
       <ul>
         <li>React.js</li>
@@ -55,7 +58,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/331760/sqlite.svg" alt="SQLite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img
   </p>
   <ul>
     <li>Node.js & Express.js</li>
@@ -119,7 +124,7 @@
 ### 📂 Available for:
 
 - **Full Stack Development Projects** – End-to-end web application development  
-- **MERN Stack & .NET Consulting** – Technical guidance and architecture design  
-- **Code Reviews & Mentoring** – Helping teams improve code quality and skills  
+- **MERN Stack** – Technical guidance and architecture design   
 - **Open Source Contributions** – Contributing to community projects  
-- **Enterprise Application Development** – Building scalable business solutions  
+- **Enterprise Application Development** – Building scalable business solutions
+- **Python & AI** – Machine learning Models   
